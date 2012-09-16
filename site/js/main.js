@@ -36,6 +36,15 @@ function main() {
     //markers.addMarker(new OpenLayers.Marker(lonLat));
 
     map.setCenter(lonLat, zoom);
+
+    //set a function to run when button clicked
+    $("#shareButton").click( function() {
+	alert("Share!");
+    });
+
+    $("#findButton").click(function() {
+	alert("Find!");
+    });
 }
 
 function addMarker(lonLat, dialog) {
@@ -48,5 +57,22 @@ function addMarker(lonLat, dialog) {
 	    true // <-- true if we want a close (X) button, false otherwise
 	    );
     map.addPopup(popup);
+}
+
+function parseForm() {
+    var form = $('#lonLat');
+    form.submit(function () {
+	$.ajax({
+	    type: form.attr('method'),
+	    url: form.attr('action'),
+	    data: form.serialize(),
+	    success: function (data) {
+		//var lonLat = $.parseJSON(data);
+		//alert(lonLat.name === "lon");
+		console.log(data);
+	    }
+	});
+	return false;
+    });
 }
 	
