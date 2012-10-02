@@ -44,10 +44,6 @@ function init() {
 	    popupShare();
 	    }); 
 	});
-
-    $("submitButton").click(function() {
-	//go all ajax on Chrome's ass
-    });
 }
 
 //Popup the share dialog
@@ -60,6 +56,11 @@ function popupShare() {
 	    draggable: false,
 	    closeText: ""
 	});
+
+    $("#formSubmit").click(function() {
+	//go all ajax on Chrome's ass
+	$( "#shareDialog" ).dialog("close");
+    });
 }
 
 function addMarker(lonLat, dialog) {
