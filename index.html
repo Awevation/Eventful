@@ -2,9 +2,10 @@
     <head>
       <title>Eventful</title>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <!--link rel="stylesheet" type="text/css" href="jquery-ui-1.8.23/css/smoothness/jquery-ui-1.8.23.custom.css"-->
       <link rel="stylesheet" href="style/style.css" type="text/css">
       <script src="js/jquery.min.js" type="text/javascript"></script>
-      <script src="jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js " type="text/javascript"></script>
+      <script src="jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js" type="text/javascript"></script>
       <script src="OpenLayers-2.12/OpenLayers.js"></script>
       <script src="js/jquery.hotkeys.js" type="text/javascript"></script>
       <script src="js/keyStatus.js" type="text/javascript"></script>
@@ -18,13 +19,21 @@
 	    <div id="title" class="textBox">
 		<h3>Events</h3>
 	    </div>
-
+	    
+    
 	    <div id="wrapper">
 		<div id="mainMap"></div>
 
 		<button type="button" id="setButton">Set</button>
 		<button type="button" id="shareButton">Share</button>
 		<button type="button" id="findButton">Find</button>
+	    </div>
+	    <div id="shareDialog" class="dialog">
+		<form>
+		    <input type="text" class="textField"/>
+		    <input type="text" class="textField"/>
+		    <input type="text" class="textField"/>
+		</form>
 	    </div>
 	</div>
     </body>	

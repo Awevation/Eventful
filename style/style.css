@@ -30,6 +30,31 @@
     -moz-box-shadow: 0px 1px 0px 0px white, inset 0px 1px 0px 0px white;
 }
 
+textarea:focus, input:focus{
+        outline: none;
+}
+
+.textField {
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    font: 20px "Helvetica", sans-serif;
+    color: #5291B3;
+    text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.2);
+    border: 2px solid #eee;
+    margin: 0px auto;
+    width: 80%;
+    //height: 100%;
+    background: #FFFFFF;
+    margin-left: 10%;
+    margin-top: 5px;
+    padding-left: 10%;
+    padding-right: 10%;
+
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+}
+
 button {
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
@@ -64,6 +89,24 @@ button:active {
     background-image: -o-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
     background-image: -ms-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
     background-image: linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
+}
+
+.dialog {
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    font: 20px "Helvetica", sans-serif;
+    color: #FFFFFF;
+    text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.2);
+    border: 2px solid #eee;
+    margin: 0px auto;
+    width: 20%;
+    height: 100%;
+    background: #A3DFFF;
+    margin-top: 5px;
+
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
 }
 
 #setButton {

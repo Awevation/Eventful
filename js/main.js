@@ -28,7 +28,6 @@ function main() {
 function init() {
     //setup Set form
     $( "#shareButton" )
-	.button()
 	.click(function() {
 	    navigator.geolocation.getCurrentPosition(function(position) {       
 		var lonLat = new OpenLayers.LonLat(position.coords.longitude, position.coords.latitude)
@@ -40,7 +39,18 @@ function init() {
 	    markers.addMarker(new OpenLayers.Marker(lonLat));
            
 	    map.setCenter(lonLat, 14);
+
+	    popupShare();
 	    }); 
+	});
+}
+
+//Popup the share dialog
+function popupShare() {
+    $("#shareDialog")
+	.dialog({
+	    autoOpen: true,
+	    title: 'Basic Dialog'
 	});
 }
 
