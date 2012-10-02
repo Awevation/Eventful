@@ -29,9 +29,8 @@ function main() {
 
 function init() {
     //setup Set form
-    $( "#shareButton" )
-	.click(function() {
-	    navigator.geolocation.getCurrentPosition(function(position) {       
+    $( "#shareButton" ).click(function() {
+	navigator.geolocation.getCurrentPosition(function(position) {       
 		var lonLat = new OpenLayers.LonLat(position.coords.longitude, position.coords.latitude)
 		.transform(
 		    new OpenLayers.Projection("EPSG:4326"), //transform from WGS 1984 
@@ -45,6 +44,10 @@ function init() {
 	    popupShare();
 	    }); 
 	});
+
+    $("submitButton").click(function() {
+	//go all ajax on Chrome's ass
+    });
 }
 
 //Popup the share dialog
@@ -54,7 +57,8 @@ function popupShare() {
 	    position: [100, 100],
 	    autoOpen: true,
 	    width: 200,
-	    //height: 600
+	    draggable: false,
+	    closeText: ""
 	});
 }
 

@@ -3871,3 +3871,859 @@ Request for /favicon.ico received.
 About to route a request for /favicon.ico
 Request for /OpenLayers-2.12/img/marker.png received.
 About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
+Request for / received.
+About to route a request for /
+Request handler 'start' was called.
+Request for /style/style.css received.
+About to route a request for /style/style.css
+Request for /js/keyStatus.js received.
+About to route a request for /js/keyStatus.js
+Request for /js/jquery.hotkeys.js received.
+About to route a request for /js/jquery.hotkeys.js
+Request for /OpenLayers-2.12/OpenLayers.js received.
+About to route a request for /OpenLayers-2.12/OpenLayers.js
+Request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js received.
+About to route a request for /jquery-ui-1.8.23/js/jquery-ui-1.8.23.custom.min.js
+Request for /js/jquery.min.js received.
+About to route a request for /js/jquery.min.js
+Request for /js/main.js received.
+About to route a request for /js/main.js
+Request for /OpenLayers-2.12/theme/default/style.css received.
+About to route a request for /OpenLayers-2.12/theme/default/style.css
+Request for /favicon.ico received.
+About to route a request for /favicon.ico
+Request for /OpenLayers-2.12/img/marker.png received.
+About to route a request for /OpenLayers-2.12/img/marker.png
