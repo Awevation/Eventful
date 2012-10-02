@@ -4,6 +4,8 @@ var lonLat;
 var zoom;
 
 $(document).ready(function() {
+    //hide popups
+    $("#shareDialog").hide();
     main();
 });
 
@@ -49,8 +51,10 @@ function init() {
 function popupShare() {
     $("#shareDialog")
 	.dialog({
+	    position: [100, 100],
 	    autoOpen: true,
-	    title: 'Basic Dialog'
+	    width: 200,
+	    //height: 600
 	});
 }
 

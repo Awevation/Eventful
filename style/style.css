@@ -109,6 +109,10 @@ button:active {
     border-radius: 30px;
 }
 
+.dialogText {
+    margin-left: 31%;
+}
+
 #setButton {
     margin-left: 27%;
 }
