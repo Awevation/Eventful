@@ -63,8 +63,8 @@ function popupSet() {
 	//go all ajax on Chrome's ass
 	//parseForm();
 	$("#shareForm").submit(function() {
-	    $.post("parseForm.php", $("#shareForm").serialize(), function(data) {
-		alert(data);
+	    $.get("http://nominatim.openstreetmap.org/search.php?format=xml&q=" + $("input#where").val(), function(data) {
+		alert( $("input#where").val());
 	    });
 
 	    return false;
