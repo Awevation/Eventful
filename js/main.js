@@ -40,14 +40,16 @@ function init() {
 	    markers.addMarker(new OpenLayers.Marker(lonLat));
            
 	    map.setCenter(lonLat, 14);
-
-	    popupShare();
 	    }); 
 	});
+
+    $("#setButton").click(function() {
+	popupSet();
+    });
 }
 
 //Popup the share dialog
-function popupShare() {
+function popupSet() {
     $("#shareDialog")
 	.dialog({
 	    position: [100, 100],
@@ -59,6 +61,14 @@ function popupShare() {
 
     $("#formSubmit").click(function() {
 	//go all ajax on Chrome's ass
+	//parseForm();
+	$("#shareForm").submit(function() {
+	    $.post("parseForm.php", $("#shareForm").serialize(), function(data) {
+		alert(data);
+	    });
+
+	    return false;
+	});
 	$( "#shareDialog" ).dialog("close");
     });
 }
@@ -91,16 +101,14 @@ function getLocation() {
 }
 
 function parseForm() {
-    var form = $('#lonLat');
-    form.submit(function () {
-	$.ajax({
-	    type: form.attr('method'),
-	    url: form.attr('action'),
-	    data: form.serialize(),
-	    success: function (data) {
-		//var lonLat = $.parseJSON(data);
-		//alert(lonLat.name === "lon");
-	    }
+    $("#shareDialog").submit(function () {
+	$.get('parseForm.php?' + $('#shareDialog').serialize())
+
+	$.post('parseForm.php', $("#shareDialog").serialize())
+
+	$.get('index.html', function(data) {
+	      $('#title').html(data);
+	        alert('Load was performed.');
 	});
 	return false;
     });

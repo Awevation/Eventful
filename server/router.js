@@ -23,12 +23,30 @@ function route(handle, pathname, response, request) {
 		    return;
 		}
 		
-		response.writeHead(200);
+		switch(getFileExt(filename)) {
+		    case "js":
+			response.writeHead(200, {"Content-Type": "text/javascript"});
+			break;
+		    case "css":
+			response.writeHead(200, {"Content-Type": "text/css"});
+			break;
+		    case "php":
+			  response.writeHead(200, {"Content-Type": "application/x-httpd-php"});
+			  break;
+		    default:
+			response.writeHead(200);
+		}
+
 		response.write(data, "binary");
 		response.end();
 	    });
 	});
     }
+}
+
+function getFileExt(filename) {
+    var ext = path.extname(filename||'').split('.');
+    return ext[ext.length - 1];
 }
 
 

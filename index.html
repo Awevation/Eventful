@@ -19,7 +19,6 @@
 	    <div id="title" class="textBox">
 		<h3>Events</h3>
 	    </div>
-	    
     
 	    <div id="wrapper">
 		<div id="mainMap"></div>
@@ -28,16 +27,18 @@
 		<button type="button" id="shareButton">Share</button>
 		<button type="button" id="findButton">Find</button>
 	    </div>
+
 	    <div id="shareDialog" class="dialog">
-		<form>
+		<form id="shareForm">
 		    <a class="dialogText">What?</a>
 		    <input type="text" class="textField"/>
-		    <a class="dialogText">When?</a>
+		    <a class="dialogText" id="when">When?</a>
 		    <input type="text" class="textField"/>
-		    <a class="dialogText">Where?</a>
+		    <a class="dialogText" id="where">Where?</a>
 		    <input type="text" class="textField"/>
 
-		    <button type="button" id="formSubmit">OK</button>
+		    <input type="submit" id="formSubmit"/>
+		    <!--button type="button" id="formSubmit">OK</button-->
 		</form>
 	    </div>
 	</div>
