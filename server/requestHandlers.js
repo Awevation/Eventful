@@ -76,7 +76,7 @@ function lonLat(res, req) {
     return;
 }
 
-function writeLonLat(res) {
+function postLonLat(res) {
     fs.writeFile('message.txt', res, function (err) {
 	  if (err) throw err;
 	    console.log('It\'s saved!');
@@ -86,4 +86,4 @@ function writeLonLat(res) {
 exports.start = start;
 exports.upload = upload;
 exports.show = show;
-exports.lonLat = lonLat;
+exports.postLonLat = postLonLat;
