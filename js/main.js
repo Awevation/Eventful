@@ -14,7 +14,6 @@ function main() {
         var mapnik = new OpenLayers.Layer.OSM();
         map.addLayer(mapnik);
                         
-
         map.setCenter(new
         OpenLayers.LonLat(3,3) // Center of the map
           .transform(
@@ -61,11 +60,24 @@ function popupSet() {
 
     $("#formSubmit").click(function() {
 	//go all ajax on Chrome's ass
-	//parseForm();
 	$("#shareForm").submit(function() {
-	    $.get("http://nominatim.openstreetmap.org/search.php?format=xml&q=" + $("input#where").val(), function(data) {
-		alert( $("input#where").val());
+	    $.get("http://nominatim.openstreetmap.org/search.php?format=json&q=" + $("input#where").val(), function(data) {
+		res = $.parseJSON(data);
+		lonLat = new OpenLayers.LonLat(res[0].lon, res[0].lat).transform(
+		    new OpenLayers.Projection("EPSG:4326"), //transform from WGS 1984 
+		    map.getProjectionObject() //to Spherical Mercator Projection
+		    );
+		map.setCenter(lonLat, 15);
+		markers.addMarker(new OpenLayers.Marker(lonLat));
+
+		$.post("/postLonLat", function(data) {
+		    console.log(data);
+		});
 	    });
+
+	    $("input#where").val("");
+	    $("input#when").val("");
+	    $("input#what").val("");
 
 	    return false;
 	});
