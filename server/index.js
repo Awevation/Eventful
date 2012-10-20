@@ -7,6 +7,6 @@ handle["/"] = requestHandlers.start;
 handle["/start"] = requestHandlers.start;
 handle["/upload"] = requestHandlers.upload;
 handle["/show"] = requestHandlers.show;
-handle["/postLonLat"] = requestHandlers.lonLat;
+handle["/postLonLat"] = requestHandlers.postLonLat;
 
 server.start(router.route, handle);
